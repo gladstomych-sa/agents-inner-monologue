@@ -15,7 +15,7 @@ tool result. You watch the action look routine while the reasoning gives it away
 ## Setup (about 2 minutes)
 
 ```bash
-git clone <this repo> && cd <this repo>
+git clone https://github.com/gladstomych-sa/agents-inner-monologue && cd agents-inner-monologue
 uv sync                                    # installs Python 3.12 + deps
 
 cp workshop.local.example workshop.local   # then edit it (next line)

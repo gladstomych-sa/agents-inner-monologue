@@ -1,0 +1,4 @@
+# The presenters will read these out. Type them here, then run: uv run check.py
+OPENAI_BASE_URL=paste-the-proxy-url-from-the-slide
+OPENAI_API_KEY=paste-the-workshop-model-key-from-the-slide
+ADRIAN_API_KEY=paste-your-adrian-profile-key-from-your-dashboard

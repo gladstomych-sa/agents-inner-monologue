@@ -1,0 +1,9 @@
+# secrets and per-attendee keys -- never commit
+*.local
+.env
+# local run artifacts
+.venv/
+__pycache__/
+*.pyc
+events.jsonl
+*_result.json

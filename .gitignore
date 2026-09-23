@@ -7,5 +7,3 @@ __pycache__/
 *.pyc
 events.jsonl
 *_result.json
-# instructor answer key -- never publish
-scenarios/answer_key/
